@@ -5,27 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e5ae58-eeaf-47aa-a4d4-a1a4757e3cd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ProyectoWebUno/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProyectoWebUno/src/main/webapp/saludo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/IfAnidado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/IfSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/SwitchCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/WhileImpares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../semana5/semana5/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../semana5/semana5/src/main/webapp/saludo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/CamposMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/CuentaDigitos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/DigitosNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/LogaritmosAngulos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/NumeroAleatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/PotenciasRaices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../semana7/src/main/java/com/lideratec/EJ01Basico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../HolaMundo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../HolaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProyectoWebUno/src/main/webapp/saludo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProyectoWebUno/src/main/webapp/saludo.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/IfAnidado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/IfAnidado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/IfSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/IfSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/SwitchCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/SwitchCalculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/WhileImpares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana4/src/main/java/com/lideratec/WhileImpares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../holaprofesor.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../semana2/Semana02/src/main/java/com/lideratec/ProductoAlcance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../semana2/Semana02/src/main/java/com/lideratec/ProductoAlcance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../semana2/Semana02/src/main/java/com/lideratec/ProductoTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../semana2/Semana02/src/main/java/com/lideratec/ProductoTipos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana5/semana5/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../semana5/semana5/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../semana5/semana5/src/main/webapp/saludo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../semana5/semana5/src/main/webapp/saludo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/CamposMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/CamposMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/CuentaDigitos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/CuentaDigitos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/DigitosNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/DigitosNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/LogaritmosAngulos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/LogaritmosAngulos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/NumeroAleatorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/NumeroAleatorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/PotenciasRaices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../semana6/src/main/java/com/lideratec/PotenciasRaices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lideratec/EJ_NodoCircular.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lideratec/EJ_NodoDoble.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
